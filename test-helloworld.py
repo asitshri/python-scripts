@@ -4,4 +4,4 @@ for i in range(5,0,-1):
     print("\n")
 
 
-print("Hello, World!")
+print("Hello, World! Practice today, to be better tomorrow!")

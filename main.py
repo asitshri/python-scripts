@@ -1,0 +1,1 @@
+print("Session 2: Hands-on Practice today, GIT, Python, and more!")
